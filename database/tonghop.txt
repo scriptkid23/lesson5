@@ -1,0 +1,5 @@
+DOANH THU TUAN
+STT       |MASO                          |TEN HANG                      |DOANH SO
+1         |AO123                         |Ao so-mi VT                   |19      
+2         |TA012                         |Tat det kim                   |15      
+3         |GA221                         |Gang tay nam                  |4       
